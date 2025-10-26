@@ -1,4 +1,4 @@
-## Hi, I'm Thea! ‧₊ ᵎᵎ 🍒 ⋅ ˚✮
+### Hi, I'm Thea! ‧₊ ᵎᵎ 🍒 ⋅ ˚✮
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -14,5 +14,8 @@
 ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)  
+
+<!---- Github stats ----->
+[![Thea's GitHub stats](https://github-readme-stats.vercel.app/api?username=iimthea&theme=material-palenight&show_icons=true)] 
 
 
