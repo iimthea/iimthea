@@ -33,7 +33,6 @@
 <!--- languages used --->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iimthea&layout=donut) 
 <!---- Github stats ----->
-## Github Stats
 ![Thea's GitHub stats](https://github-readme-stats.vercel.app/api?username=iimthea&theme=material-palenight&show_icons=true)
 
 
