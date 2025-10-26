@@ -1,6 +1,6 @@
 # Hi, I'm Thea! ‧₊ ᵎᵎ 🍒 ⋅ ˚✮
 
-### Current Stacks and Others
+# Current Stack and Other
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -23,10 +23,10 @@
 
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white) 
 
-### Top Langs
+# Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iimthea&layout=donut) 
 <!---- Github stats ----->
-### Github Stats
+# Stats bleh
 ![Thea's GitHub stats](https://github-readme-stats.vercel.app/api?username=iimthea&theme=material-palenight&show_icons=true)
 
 
