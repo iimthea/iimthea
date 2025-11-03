@@ -16,8 +16,10 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white) 
 
+<!--- Top Programming Languages ---> 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iimthea&layout=donut) 
 <!---- Github stats ----->
-![Thea's GitHub stats](https://github-readme-stats.vercel.app/api?username=iimthea&theme=material-palenight&show_icons=true)
+![Thea's GitHub stats](https://github-readme-stats.vercel.app/api?username=iimthea&theme=material-jolly&show_icons=true) 
 
 
