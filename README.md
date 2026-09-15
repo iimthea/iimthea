@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=360&height=44&lines=%E2%82%8A%E2%80%A7%C2%B0%F0%90%90%AA%E2%99%A1%F0%90%91%82%C2%B0%E2%80%A7%E2%82%8A" alt="Typing headlines" />
 </p>
 
-### ✿ Techies I Worked With 
+### ✿ Languages, Frameworks, & Others
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
